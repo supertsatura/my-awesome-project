@@ -6,4 +6,4 @@
 
 ## Ссылки
 
-- [Публичная страница GitHub Pages] (https://github.com/supertsatura/my-awesome-project)
+- [Публичная страница GitHub Pages] ( https://supertsatura.github.io/my-awesome-project/)
